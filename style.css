@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+}
+
+.firstCircle {
+  fill: green;
+}
+
+
+.point {
+  fill: red;
+}
